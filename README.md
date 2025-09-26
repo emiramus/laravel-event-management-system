@@ -1,5 +1,5 @@
 #laravel event management system
-A complete Event Management System built with Laravel as part of a Web Programming course final exam. This application implements full CRUD (Create, Read, Update, Delete) operations with search functionality.
+A complete Event Management System built with Laravel as part of a Web Programming course. This application implements full CRUD (Create, Read, Update, Delete) operations with search functionality.
 
 ## Features
 
