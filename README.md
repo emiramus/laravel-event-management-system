@@ -9,9 +9,9 @@ A complete Event Management System built with Laravel as part of a Web Programmi
 - **Database Integration**: MySQL database with migrations and seeding
 - **RESTful Routing**: Proper resource controller implementation
 
-## Exam Requirements Met
+## Requirements
 
-This project fulfills all requirements from the Web Programming final exam:
+This project fulfills all requirements from the Web Programming:
 - Database migration with specified structure
 - Seeding with five sample events
 - Model creation for events
